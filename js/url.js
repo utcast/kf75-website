@@ -11,9 +11,9 @@
 // const RESOURCE_TOP = "https://raw.githubusercontent.com/utcast/mf97-website/main/contents";
 const RESOURCE_TOP = (() => {
 	if (location.hostname == "utcast.github.io") {
-		return "https://raw.githubusercontent.com/utcast/kf95-website/draft/contents";
+		return "https://raw.githubusercontent.com/utcast/kf75-website/draft/contents";
 	} else if (location.hostname == "ut-cast.net") {
-		return "https://raw.githubusercontent.com/utcast/kf95-website/main/contents";
+		return "https://raw.githubusercontent.com/utcast/kf75-website/main/contents";
 	} else {
 		return "../contents";
 	}
