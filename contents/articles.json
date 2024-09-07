@@ -1,0 +1,64 @@
+{
+	"show": [
+		{
+			"id": "weather",
+			"name": "[気象|きしょう]ショー",
+			"catch": "[風|かぜ]を[感|かん]じて！[空|そら]を[見上|みあ]げて！[気象|きしょう]のしくみショー",
+			"type": "サイエンスショー",
+			"place": "show",
+			"image": {
+				"url": "contents/img/weather/img1.jpg",
+				"alt": "竜巻発生装置の実験の様子"
+			}
+		}
+	],
+	"booth": [
+		{
+			"id": "rittaishi",
+			"name": "[立体視|りったいし]ブース",
+			"catch": "[絵|え]がとび[出|だ]してみえる！？[立体視|りったいし]のふしぎ",
+			"type": "ブース[発表|はっぴょう]",
+			"place": "museum",
+			"image": {
+				"url": "contents/img/rittaishi/img1.jpg",
+				"alt": "両眼視差を体感する実験の様子"
+			}
+		},
+		{
+			"id": "chikei",
+			"name": "[地形|ちけい]ブース",
+			"catch": "[大地|だいち]はどうやって[作|つく]られた？[地形|ちけい]のサイエンス",
+			"type": "ブース[発表|はっぴょう]",
+			"place": "museum",
+			"image": {
+				"url": "contents/img/chikei/img1.jpg",
+				"alt": "海岸段丘をつくる実験の様子"
+			}
+		}
+	],
+	"mini_exhibits": [
+		{
+			"id": "atelier",
+			"name": "アトリエ（[工作教室|こうさくきょうしつ]）",
+			"catch": "[作|つく]って[体感|たいかん]！サイエンスアトリエ",
+			"type": "[工作教室|こうさくきょうしつ]",
+			"place": "show",
+			"image": {
+				"url": "contents/img/atelier/img1.jpg",
+				"alt": "カメラオブスキュラを作っている様子"
+			}
+		},
+		{
+			"id": "photo-spot",
+			"name": "フォトスポット",
+			"catch": "フォトスポット"
+		}
+	],
+	"other_articles": [
+		{
+			"id": "access",
+			"name": "アクセス",
+			"catch": "アクセス"
+		}
+	]
+}

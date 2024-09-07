@@ -1,0 +1,68 @@
+{
+	"sponsors": [
+		{
+			"name": "化学工業日報さま",
+			"url": "https://www.chemicaldaily.co.jp/",
+			"image": "/img/sponsors/kagakukougyounippou-logo.png"
+		},
+		{
+            "name": "マイホムさま",
+            "url": "https://myhm.co.jp/",
+            "image": "/img/sponsors/myhm-logo.png"
+		},
+		{
+            "name": "WAOさま",
+            "url": "https://waomirai.com/",
+            "image": "/img/sponsors/wao-corporation-logo.png"
+		},
+		{
+            "name": "Integrityさま",
+            "url": "https://integrity-sbp.com/",
+            "image": "/img/sponsors/integrity-logo.png"
+		},		
+		{
+            "name": "東罐さま",
+            "url": "https://www.tokan.co.jp",
+            "image": "/img/sponsors/toukankogyo-logo.png"
+		},
+		{
+            "name": "西国立さま",
+            "url": "https://sohogakusha.jp/2492/",
+            "image": "/img/sponsors/nishikunitachihoikuen-logo.png"
+		},
+		{
+            "name": "日本標準さま",
+            "url": "https://www.nipponhyojun.co.jp",
+            "image": "/img/sponsors/nipponhyoujun-logo.png"
+		},
+		{
+			"name" :"読売さま",
+			"image" :"/img/sponsors/yomiuri-logo.jpg"
+		},
+		{
+            "name": "日販さま",
+            "url": "https://www.nippan.co.jp/",
+            "image": "/img/sponsors/nippan-logo.png"
+		},
+		{
+			"name": "ベネッセさま",
+			"url": "https://www.benesse.co.jp",
+			"image": "/img/sponsors/benesse-logo.png"
+		},
+		{
+            "name": "リケジョさま",
+            "url": "https://rikejocafe.jp/",
+            "image": "/img/sponsors/rikejo-cafe-logo.png"
+		},
+		{
+            "name": "アルファ企画",
+            "url": "http://shibuya.pandastudio.tv",
+            "image": "/img/sponsors/alphakikaku-logo.png"
+		},
+		{
+            "name": "少年写真さま",
+            "url": "https://www.schoolpress.co.jp",
+            "image": "/img/sponsors/shounenshashin-logo.png"
+		}
+	]
+}

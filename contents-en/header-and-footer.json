@@ -1,0 +1,78 @@
+{
+	"header": [
+		{
+			"text": "Exhibitions",
+			"href": "",
+			"dropdown": [
+				[
+					{
+						"text": "Weather show",
+						"href": "weather"
+					}
+				],
+				[
+					{
+						"text": "Light booth",
+						"href": "light"
+					},
+					{
+						"text": "Architecture booth",
+						"href": "architecture"
+					},
+					{
+						"text": "Alcohol booth",
+						"href": "alcohol"
+					}
+				],
+				[
+					{
+						"text": "Science crafts workshop",
+						"href": "atelier"
+					}
+				]
+			]
+		},
+		{
+			"text": "Timetable",
+			"href": "timetable"
+		},
+		{
+			"text": "Access",
+			"href": "access"
+		},
+		{
+			"text": "🇯🇵 日本語",
+			"href": "https://ut-cast.net/mayfes2024/"
+		}
+	],
+	"footer": [
+		[
+			{
+				"text": "Home",
+				"href": ""
+			},
+			{
+				"text": "Exhibitions",
+				"href": "index#Exhibitions"
+			},
+			{
+				"text": "Timetable",
+				"href": "timetable"
+			},
+			{
+				"text": "Access",
+				"href": "access"
+			}
+		],
+		[
+			{
+				"text": "UT-CAST official webiste (Japanese)",
+				"href": "https://ut-cast.net"
+			},
+			{
+				"text": "MayFes 2024 official website",
+				"href": "https://gogatsusai.jp/97/visitor/en"
+			}
+		]
+	]
+}
