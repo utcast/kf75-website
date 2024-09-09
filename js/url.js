@@ -32,6 +32,9 @@ const toFullURL = function (url) {
 		return `${RESOURCE_TOP}${url}`;
 	} else if (url.startsWith("http://") || url.startsWith("https://")) {
 		return url;
+	} else if (url.startsWith("en/")) {
+		// "en/"で始まる場合、そのまま返す
+		return url;
 	} else {
 		return `?page=${url}`;
 	}
