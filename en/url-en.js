@@ -33,7 +33,6 @@ const toFullURL = function (url) {
 	} else if (url.startsWith("http://") || url.startsWith("https://")) {
 		return url;
 	} 
-	
 	else {
 		return `?page=${url}`;
 	}
