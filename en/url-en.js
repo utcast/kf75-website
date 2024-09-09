@@ -32,7 +32,10 @@ const toFullURL = function (url) {
 		return `${RESOURCE_TOP}${url}`;
 	} else if (url.startsWith("http://") || url.startsWith("https://")) {
 		return url;
-	} else {
+	}
+	 else if(url.startsWith("../")) {
+		return url;
+	 }else {
 		return `?page=${url}`;
 	}
 }
