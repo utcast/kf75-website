@@ -32,7 +32,14 @@ const toFullURL = function (url) {
 		return `${RESOURCE_TOP}${url}`;
 	} else if (url.startsWith("http://") || url.startsWith("https://")) {
 		return url;
-	} else {
+	} 
+	else if(url==index){
+		const pathToRemove = "/contents-en";
+		const newResourceTop = RESOURCE_TOP.endsWith(pathToRemove) ? RESOURCE_TOP.slice(0, -pathToRemove.length) : RESOURCE_TOP;
+		return `${newResourceTop}/contents/?page=index`;
+	   }
+	
+	else {
 		return `?page=${url}`;
 	}
 }
