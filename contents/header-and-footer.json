@@ -1,37 +1,50 @@
 {
 	"header": [
 		{
-			"text": "[企画紹介|きかくしょうかい]",
+			"text": "[Project Introduction]",
 			"href": "",
 			"dropdown": [
 				[
 					{
-						"text": "[気象|きしょう]ショー",
-						"href": "weather"
+						"text": "Sound Show",
+						"href": "sound"
+					},
+					{
+						"text": "Balloon Show",
+						"href": "balloon"
 					}
 				],
 				[
 					{
-						"text": "[灯|あか]りブース",
-						"href": "light"
+						"text": "Tea Booth",
+						"href": "tea"
 					},
 					{
-						"text": "[建築|けんちく]ブース",
-						"href": "architecture"
+						"text": "Crystal Booth",
+						"href": "crystal"
 					},
 					{
-						"text": "アルコールブース",
-						"href": "alcohol"
+						"text": "Shape Booth",
+						"href": "shape"
 					}
 				],
 				[
 					{
-						"text": "アトリエ（[工作教室|こうさくきょうしつ]）",
-						"href": "atelier"
+						"text": "Black Wall",
+						"href": "blackwall"
+					},
+					{
+						"text": "Super Ball",
+						"href": "superball"
+					},
+					{
+						"text": "Periscope",
+						"href": "periscope"
 					}
 				]
 			]
-		},
+		}
+		,
 		{
 			"text": "タイムテーブル",
 			"href": "timetable"
@@ -70,8 +83,8 @@
 				"href": "https://ut-cast.net"
 			},
 			{
-				"text": "[五月祭|ごがつさい][公式|こうしき]サイト",
-				"href": "https://gogatsusai.jp/97/visitor/"
+				"text": "[駒場祭|こまばさい][公式|こうしき]サイト",
+				"href": "https://www.komabasai.net/75/visitor/"
 			}
 		]
 	]
