@@ -1,44 +1,47 @@
 {
 	"header": [
 		{
-			"text": "[Project Introduction]",
+			"text": "[企画紹介|きかくしょうかい]",
 			"href": "",
 			"dropdown": [
 				[
 					{
-						"text": "Sound Show",
+						"text": "[音|おと]ショー",
 						"href": "sound"
 					},
+
 					{
-						"text": "Balloon Show",
+						"text": "[風船|ふうせん]ショー",
 						"href": "balloon"
 					}
 				],
 				[
 					{
-						"text": "Tea Booth",
+						"text": "お[茶|ちゃ]ブース",
 						"href": "tea"
 					},
 					{
-						"text": "Crystal Booth",
+						"text": "[結晶|けっしょう]ブース",
 						"href": "crystal"
 					},
 					{
-						"text": "Shape Booth",
+						"text": "[図形|ずけい]ブース",
 						"href": "shape"
 					}
 				],
 				[
 					{
-						"text": "Black Wall",
+						"text": "ブラックウォール",
 						"href": "blackwall"
-					},
+					}
+					,
 					{
-						"text": "Super Ball",
+						"text": "スーパーボール",
 						"href": "superball"
-					},
+					}
+					,
 					{
-						"text": "Periscope",
+						"text": "[潜望鏡|せんぼうきょう]",
 						"href": "periscope"
 					}
 				]

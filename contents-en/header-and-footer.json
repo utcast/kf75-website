@@ -1,33 +1,45 @@
 {
 	"header": [
 		{
-			"text": "Exhibitions",
+			"text": "Project Introduction",
 			"href": "",
 			"dropdown": [
 				[
 					{
-						"text": "Weather show",
-						"href": "weather"
+						"text": "Sound Show",
+						"href": "sound"
+					},
+					{
+						"text": "Balloon Show",
+						"href": "balloon"
 					}
 				],
 				[
 					{
-						"text": "Light booth",
-						"href": "light"
+						"text": "Tea Booth",
+						"href": "tea"
 					},
 					{
-						"text": "Architecture booth",
-						"href": "architecture"
+						"text": "Crystal Booth",
+						"href": "crystal"
 					},
 					{
-						"text": "Alcohol booth",
-						"href": "alcohol"
+						"text": "Shape Booth",
+						"href": "shape"
 					}
 				],
 				[
 					{
-						"text": "Science crafts workshop",
-						"href": "atelier"
+						"text": "Black Wall",
+						"href": "blackwall"
+					},
+					{
+						"text": "Super Ball",
+						"href": "superball"
+					},
+					{
+						"text": "Periscope",
+						"href": "periscope"
 					}
 				]
 			]
