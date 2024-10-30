@@ -73,7 +73,7 @@
 ショー[会場|かいじょう]から[工作教室会場|こうさくきょうしつかいじょう]への[行|い]き[方|かた]
 
 ```
-<iframe width="878" height="494" src="https://ww.youtube.com/embed/_WP76aDiSFQ" title="ショー会場から工作教室会場までの行き方 【東大CAST 駒場祭2024】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="878" height="494" src="https://www.youtube.com/embed/_WP76aDiSFQ" title="ショー会場から工作教室会場までの行き方 【東大CAST 駒場祭2024】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 
 [正門|せいもん]から[工作教室会場|こうさくきょうしつかいじょう]への[行|い]き[方|かた]
