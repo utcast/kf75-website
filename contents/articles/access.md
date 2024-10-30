@@ -11,7 +11,7 @@
 ショー[会場|かいじょう]からミュージアム[会場|かいじょう]への[行|い]き[方|かた]
 
 ```
-<iframe width="878" height="494" src="https://www.youtube.com/embed/myg9EICzWRY" title="ショー会場からミュージアム会場までの行き方 【東大CAST 五月祭2024】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="878" height="494" src="https://www.youtube.com/embed/lXIzcAIlvmc" title="ショー会場からミュージアム会場までの行き方 【東大CAST 五月祭2024】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 [工作教室会場|こうさくきょうしつかいじょう]からミュージアム[会場|かいじょう]への[行|い]き[方|かた]
 
