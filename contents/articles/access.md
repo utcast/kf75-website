@@ -16,7 +16,7 @@
 [工作教室会場|こうさくきょうしつかいじょう]からミュージアム[会場|かいじょう]への[行|い]き[方|かた]
 
 ```
-<iframe width="878" height="494" src="https://www.youtube.com/embed/U_pYWs683vA" title="ショー会場からミュージアム会場までの行き方 【東大CAST 駒場祭2024】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="878" height="494" src="https://www.youtube.com/embed/U_pYWs683vA" title="工作教室会場からミュージアム会場までの行き方 【東大CAST 駒場祭2024】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 
 
@@ -24,7 +24,7 @@
 
 
 ```
-<iframe width="878" height="494" src="https://www.youtube.com/embed/p3bJidb0iHU" title="ショー会場からミュージアム会場までの行き方 【東大CAST 駒場祭2024】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="878" height="494" src="https://www.youtube.com/embed/p3bJidb0iHU" title="正門からミュージアム会場までの行き方 【東大CAST 駒場祭2024】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 
 
@@ -45,13 +45,13 @@
 
 
 ```
-<iframe width="878" height="494" src="https://www.youtube.com/embed/F9n2q_WP_Fg" title="ミュージアム会場からショー会場までの行き方 【東大CAST 駒場祭2024】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="878" height="494" src="https://www.youtube.com/embed/F9n2q_WP_Fg" title="工作教室会場からショー会場までの行き方 【東大CAST 駒場祭2024】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 
 [正門|せいもん]からショー[会場|かいじょう]への[行|い]き[方|かた]
 
 ```
-<iframe width="878" height="494" src="https://www.youtube.com/embed/jV4ItIGHw_s" title="ミュージアム会場からショー会場までの行き方 【東大CAST 駒場祭2024】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="878" height="494" src="https://www.youtube.com/embed/jV4ItIGHw_s" title="正門からショー会場までの行き方 【東大CAST 駒場祭2024】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 
 
@@ -67,17 +67,17 @@
 ミュージアム[会場|かいじょう]から[工作教室会場|こうさくきょうしつかいじょう]への[行|い]き[方|かた]
 
 ```
-<iframe width="878" height="494" src="https://www.youtube.com/embed/EY_sEH2iZgQ" title="ミュージアム会場からショー会場までの行き方 【東大CAST 駒場祭2024】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="878" height="494" src="https://www.youtube.com/embed/EY_sEH2iZgQ" title="ミュージアム会場から工作教室会場までの行き方 【東大CAST 駒場祭2024】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 
 ショー[会場|かいじょう]から[工作教室会場|こうさくきょうしつかいじょう]への[行|い]き[方|かた]
 
 ```
-<iframe width="878" height="494" src="https://ww.youtube.com/embed/_WP76aDiSFQ" title="ミュージアム会場からショー会場までの行き方 【東大CAST 駒場祭2024】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="878" height="494" src="https://ww.youtube.com/embed/_WP76aDiSFQ" title="ショー会場から工作教室会場までの行き方 【東大CAST 駒場祭2024】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 
 [正門|せいもん]から[工作教室会場|こうさくきょうしつかいじょう]への[行|い]き[方|かた]
 
 ```
-<iframe width="878" height="494" src="https://www.youtube.com/embed/O9RIMy1XXz4" title="ミュージアム会場からショー会場までの行き方 【東大CAST 駒場祭2024】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="878" height="494" src="https://www.youtube.com/embed/O9RIMy1XXz4" title="正門から工作教室会場までの行き方 【東大CAST 駒場祭2024】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
