@@ -11,9 +11,9 @@
 // const RESOURCE_TOP = "https://raw.githubusercontent.com/utcast/mf97-website/main/contents";
 const RESOURCE_TOP = (() => {
 	if (location.hostname == "utcast.github.io") {
-		return "https://raw.githubusercontent.com/utcast/mf97-website/compose/contents";
+		return "https://raw.githubusercontent.com/utcast/kf75-website/draft/contents";
 	} else if (location.hostname == "ut-cast.net") {
-		return "https://raw.githubusercontent.com/utcast/mf97-website/main/contents";
+		return "https://raw.githubusercontent.com/utcast/kf75-website/main/contents";
 	} else {
 		return "../contents";
 	}
@@ -31,6 +31,9 @@ const toFullURL = function (url) {
 	if (url.startsWith("/")) {
 		return `${RESOURCE_TOP}${url}`;
 	} else if (url.startsWith("http://") || url.startsWith("https://")) {
+		return url;
+	} else if (url.startsWith("en/")) {
+		// "en/"で始まる場合、そのまま返す
 		return url;
 	} else {
 		return `?page=${url}`;

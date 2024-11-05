@@ -145,3 +145,23 @@ a.card {
 	max-height: 120px;
 	object-fit: cover;
 }
+[data-ruby],
+a.card [data-ruby] {
+	position: relative;
+	display: inline-block;
+}
+
+[data-ruby]::before,
+a.card [data-ruby]::before {
+	display: var(--ruby-display);
+	content: attr(data-ruby);
+	position: absolute;
+	top: -0.8em;
+	left: 0;
+	right: 0;
+	margin: auto;
+	font-size: 0.5em;
+	font-weight: bold;
+	text-align: center;
+	white-space: nowrap;
+}

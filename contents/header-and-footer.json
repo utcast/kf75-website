@@ -6,32 +6,48 @@
 			"dropdown": [
 				[
 					{
-						"text": "[気象|きしょう]ショー",
-						"href": "weather"
+						"text": "[音|おと]ショー",
+						"href": "sound"
+					},
+
+					{
+						"text": "[風船|ふうせん]ショー",
+						"href": "balloon"
 					}
 				],
 				[
 					{
-						"text": "[灯|あか]りブース",
-						"href": "light"
+						"text": "お[茶|ちゃ]ブース",
+						"href": "tea"
 					},
 					{
-						"text": "[建築|けんちく]ブース",
-						"href": "architecture"
+						"text": "[結晶|けっしょう]ブース",
+						"href": "crystal"
 					},
 					{
-						"text": "アルコールブース",
-						"href": "alcohol"
+						"text": "[図形|ずけい]ブース",
+						"href": "shape"
 					}
 				],
 				[
 					{
-						"text": "アトリエ（[工作教室|こうさくきょうしつ]）",
-						"href": "atelier"
+						"text": "ブラックウォール",
+						"href": "blackwall"
+					}
+					,
+					{
+						"text": "スーパーボール",
+						"href": "superball"
+					}
+					,
+					{
+						"text": "[潜望鏡|せんぼうきょう]",
+						"href": "periscope"
 					}
 				]
 			]
-		},
+		}
+		,
 		{
 			"text": "タイムテーブル",
 			"href": "timetable"
@@ -42,7 +58,7 @@
 		},
 		{
 			"text": "🇬🇧 English",
-			"href": "https://ut-cast.net/komafes2024/en/"
+			"href": "en/index.html"
 		}
 	],
 	"footer": [
@@ -70,8 +86,8 @@
 				"href": "https://ut-cast.net"
 			},
 			{
-				"text": "[五月祭|ごがつさい][公式|こうしき]サイト",
-				"href": "https://gogatsusai.jp/97/visitor/"
+				"text": "[駒場祭|こまばさい][公式|こうしき]サイト",
+				"href": "https://www.komabasai.net/75/visitor/"
 			}
 		]
 	]

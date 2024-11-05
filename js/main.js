@@ -144,7 +144,8 @@ const toggleRuby = function (on) {
  */
 const makeExternalLinksOpenInNewTab = function () {
 	for (let a of document.querySelectorAll("a")) {
-		if (a.href.startsWith("http") && !a.href.startsWith("https://ut-cast.net/mayfes2024")) {
+		if (a.href.startsWith("http") && !a.href.startsWith("https://ut-cast.net/mayfes2024") && !a.href.startsWith("http://127.")) {
+			console.log(a.href);
 			a.target = "_blank";
 		}
 	}
