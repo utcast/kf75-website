@@ -21,6 +21,10 @@
 						"href": "tea"
 					},
 					{
+						"text": "リニアブース",
+						"href": "linear"
+					},
+					{
 						"text": "[結晶|けっしょう]ブース",
 						"href": "crystal"
 					},
