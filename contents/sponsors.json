@@ -3,32 +3,22 @@
 		{
 			"name": "化学工業日報さま",
 			"url": "https://www.chemicaldaily.co.jp/",
-			"image": "/img/sponsors/kagakukougyounippou-logo.png"
+			"image": "/img/sponsors/化学工業日報_ロゴ.png"
 		},
 		{
-            "name": "マイホムさま",
-            "url": "https://myhm.co.jp/",
-            "image": "/img/sponsors/myhm-logo.png"
+            "name": "オリエンタルさま",
+            "url": "https://www.orientalgiken.co.jp/",
+            "image": "/img/sponsors/ORIENTAL_ロゴ.png"
 		},
 		{
             "name": "WAOさま",
             "url": "https://waomirai.com/",
-            "image": "/img/sponsors/wao-corporation-logo.png"
-		},
-		{
-            "name": "Integrityさま",
-            "url": "https://integrity-sbp.com/",
-            "image": "/img/sponsors/integrity-logo.png"
+            "image": "/img/sponsors/ワオ_ロゴ.png"
 		},		
-		{
-            "name": "東罐さま",
-            "url": "https://www.tokan.co.jp",
-            "image": "/img/sponsors/toukankogyo-logo.png"
-		},
 		{
             "name": "西国立さま",
             "url": "https://sohogakusha.jp/2492/",
-            "image": "/img/sponsors/nishikunitachihoikuen-logo.png"
+            "image": "/img/sponsors/西国立_ロゴ.png"
 		},
 		{
             "name": "日本標準さま",
@@ -36,33 +26,58 @@
             "image": "/img/sponsors/nipponhyoujun-logo.png"
 		},
 		{
+            "name": "東罐さま",
+            "url": "https://www.tokan.co.jp",
+            "image": "/img/sponsors/TOKAN_ロゴ.png"
+		},
+		{
 			"name" :"読売さま",
-			"image" :"/img/sponsors/yomiuri-logo.jpg"
+			"image" :"/img/sponsors/読売_ロゴ.jpg"
+		},
+		{
+            "name": "健栄製薬さま",
+            "url": "https://www.kenei-pharm.com/",
+            "image": "/img/sponsors/健栄_ロゴ.png"
+		},
+		{
+            "name": "伯方の塩さま",
+            "url": "https://www.hakatanoshio.co.jp/",
+            "image": "/img/sponsors/伯方塩_ロゴ.png"
+		},
+		{
+            "name": "日東電工さま",
+            "url": "https://www.nitto.com/jp/ja/",
+            "image": "/img/sponsors/日東電工_ロゴ.png"
+		},
+		{
+            "name": "テクノワークスさま",
+            "url": "https://technoworksee.com/",
+            "image": "/img/sponsors/テクノ_ロゴ.png"
 		},
 		{
             "name": "日販さま",
             "url": "https://www.nippan.co.jp/",
-            "image": "/img/sponsors/nippan-logo.png"
+            "image": "/img/sponsors/日版_ロゴ.png"
 		},
 		{
 			"name": "ベネッセさま",
 			"url": "https://www.benesse.co.jp",
-			"image": "/img/sponsors/benesse-logo.png"
+			"image": "/img/sponsors/ベネッセ_ロゴ.png"
 		},
 		{
             "name": "リケジョさま",
             "url": "https://rikejocafe.jp/",
-            "image": "/img/sponsors/rikejo-cafe-logo.png"
+            "image": "/img/sponsors/理系女子_ロゴ.png"
 		},
 		{
             "name": "アルファ企画",
             "url": "http://shibuya.pandastudio.tv",
-            "image": "/img/sponsors/alphakikaku-logo.png"
+            "image": "/img/sponsors/アルファ_ロゴ.png"
 		},
 		{
             "name": "少年写真さま",
             "url": "https://www.schoolpress.co.jp",
-            "image": "/img/sponsors/shounenshashin-logo.png"
+            "image": "/img/sponsors/少年新聞社_ロゴ.png"
 		}
 	]
 }
