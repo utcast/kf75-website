@@ -40,6 +40,11 @@
             "image": "/img/sponsors/健栄_ロゴ.jpg"
 		},
 		{
+            "name": "テクノワークスさま",
+            "url": "https://technoworksee.com/",
+            "image": "/img/sponsors/テクノ_ロゴ.jpg"
+		},
+		{
             "name": "伯方の塩さま",
             "url": "https://www.hakatanoshio.co.jp/",
             "image": "/img/sponsors/伯方塩_ロゴ.jpg"
@@ -50,9 +55,9 @@
             "image": "/img/sponsors/日東電工_ロゴ.jpg"
 		},
 		{
-            "name": "テクノワークスさま",
-            "url": "https://technoworksee.com/",
-            "image": "/img/sponsors/テクノ_ロゴ.jpg"
+            "name": "伯方の塩さま",
+            "url": "https://www.hakatanoshio.co.jp/",
+            "image": "/img/sponsors/伯方塩_ロゴ.jpg"
 		},
 		{
             "name": "日販さま",
