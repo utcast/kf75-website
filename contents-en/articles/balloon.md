@@ -34,7 +34,7 @@ When a train starts to run forward, we feel an opposite force pulling us backwar
 
 ## How balloons work
 
-![Balloon experiment](/img/balloon/風船ショー写真_CO2.jpg)
+![Balloon experiment](/img/balloon/風船ショー写真_気球.jpg)
 
 How does a balloon float?
 
