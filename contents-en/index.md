@@ -1,65 +1,82 @@
-# UT-CAST KomabaFes 2024
 
-## News
+# Todai CAST Komaba Festival 2024
 
-Komaba Festival 2024 will be held on 2024/11/22 (Fri.) - 24 (Sun.) at the Komaba Campus of the University of Tokyo.
+## Announcement
 
-At Todai CAST, there will be a booth exhibition, "Science Museum," where you can see and enjoy experiments on various themes up close, and a large-scale experiment "Science Show," as well as various exhibitions 
+Komaba Festival 2024 will be held from Friday, November 22 to Sunday, November 24, 2024 at the Komaba Campus of the University of Tokyo.
 
-We look forward to seeing you there!
+At Todai CAST, there will be a booth exhibition, “I see and feel”, where you can enjoy seeing various experiments on various themes up close! Science Museum” and a large-scale experiment ‘Science Show,’ as well as various exhibitions! Science Show” where you can enjoy large-scale experiments, as well as various exhibitions and craft workshops.
 
-## Exhibitions
+We look forward to your visit!
 
----
-[title](light)
-![灯りブースのカバー画像](/img/toppage/灯り_top.png)
-## Light Booth
+## Project Introduction
 
 ---
----
-[title](architecture)
-![建築ブースのカバー画像](/img/toppage/建築_top.png)
-## Architecture Booth
-
----
----
-[title](alcohol)
-![アルコールブースのカバー画像](/img/toppage/アルコール_top.png)
-## Alcohol Booth
-
+[title](shape)
+![Graphics Booth Cover Image](/img/toppage/図形_top.png)
+## Shape Booth
+Let's feel it! The Wonder of Shapes
 ---
 ---
-[title](weather)
-![気象ショーのカバー画像](/img/toppage/気象_top.png)
-## Weather Show
-
+[title](linear)
+![Linear Booth Cover Image](/img/toppage/リニア_top.png)
+## Linear Booth
+Aim to be the fastest at Komaba Festival!
+---
+---
+[title](tea)
+![Tea booth cover image](/img/toppage/お茶_top.png)
+## Tea Booth
+Know tea ooo! Nozoeicha-oo! What's in the tea!
+---
+---
+[title](crystal)
+![Cover image of crystal booth](/img/toppage/結晶_top.png)
+## Crystal booth
+Tiny grains, big change.
+---
+---
+[title](balloon)
+![Balloon Show Cover Image](/img/toppage/風船_top.png)
+## Balloon show
+Why do they float? balloon mystery show.
+---
+---
+[title](sound)
+![Music Show Cover Image](/img/toppage/音楽_top.png)
+## Music Show
+Ensemble played by the power of science. The show is open!
 ---
 ---
 [title](atelier)
-![アトリエのカバー画像](/img/toppage/アトリエ_top.png)
-## Science Workshop
-
+![Atelier cover image](/img/toppage/アトリエ_top.png)
+## Atelier (craft class)
+Let's make crafts with CAST brothers and sisters!
 ---
 
-
-## Atelier Tickets
+## Atelier Numbered Tickets Remaining
 
 ```
-<iframe width=800 height=400 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdG8YaRLg1z6XoPRbUUU4geb52UJyzwxc35pQ19jZb0k8W-qPZbbuWCiDTw4Dqej89CkvlG6dR0jJi/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="800" height="400" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSGGco9-geeQYLfuJsoYiR3OQ-jows4bINLfHNqBXPwQgSSibM2erSozO7zfph6epooLW11s9LYJe-1/pubhtml?gid=2010013736&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 ```
 
-
-## Info
+## Notice
 
 ---
 [title](access)
-![東大CASTのロゴ](/img/sponsors/utcast.gif)
+![TODAI CAST logo](/img/sponsors/utcast.gif)
 ## Access
-
+Click here for directions to the venue.
+---
+---
+[title](timetable)
+![Tokyo University CAST logo](/img/sponsors/utcast.gif)
+## Timetable
+Schedule of Science Show and Atelier (Craft Workshop)
 ---
 ---
 [title](pamphlet)
-![パンフレットの表紙](/img/pamphlet/pamphlet.png)
-## Pamphlet (Japanese)
-
+![Brochure cover](/img/pamphlet/pamphlet.png)
+## Brochure
+Official pamphlet is also available on the web!
 ---

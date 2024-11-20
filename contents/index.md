@@ -15,31 +15,31 @@
 [title](shape)
 ![図形ブースのカバー画像](/img/toppage/図形_top.png)
 ## [図形|ずけい]ブース
-[私|わたし]たちの[生活|せいかつ]の[中|なか]に[潜|ひそ]む[図形|ずけい]をつかった[工夫|くふう]を[紹介|しょうかい]します！
+[実感|じっかん]しよう！[図形|ずけい]の[不思議|ふしぎ]
 ---
 ---
 [title](linear)
 ![リニアブースのカバー画像](/img/toppage/リニア_top.png)
 ## リニアブース
-[目指|めざ]せ！[駒場祭|こまばさい][最速|さいそく]！リニアの[秘密|ひみつ]
+[駒場祭|こまばさい][最速|さいそく]を[目指|めざ]せ！
 ---
 ---
 [title](tea)
 ![お茶ブースのカバー画像](/img/toppage/お茶_top.png)
 ## お[茶|ちゃ]ブース
-[身近|みじか]な[一杯|いっぱい]に[意外|いがい]な[力|ちから]。お[茶|ちゃ]ブース！
+[知|し]っ[茶|ちゃ]おう！のぞい[茶|ちゃ]おう！お[茶|ちゃ]の[中身|なかみ]！
 ---
 ---
 [title](crystal)
 ![結晶ブースのカバー画像](/img/toppage/結晶_top.png)
 ## [結晶|けっしょう]ブース
-[固|かた]まるだけじゃない！[変化|へんか]を[見逃|みのが]すな！[結晶ブース|けっしょうぶーす]
+ちっちゃな[粒|つぶ]で[大|おお]きな[変化|へんか]
 ---
 ---
-[title](ballon)
+[title](balloon)
 ![風船ショーのカバー画像](/img/toppage/風船_top.png)
 ## [風船|ふうせん]ショー
-[浮|う]かせて[飛|と]ばして[風船ショー|ふうせんしょー]！[迫力|はくりょく]のある[実験|じっけん]とお[待|ま]ちしております
+なぜうくの？[風船|ふうせん]のふしぎショー
 ---
 ---
 [title](sound)
@@ -50,16 +50,14 @@
 ---
 [title](atelier)
 ![アトリエのカバー画像](/img/toppage/アトリエ_top.png)
-
 ## アトリエ（[工作教室|こうさくきょうしつ]）
-
 CASTのお[兄|にい]さん、お[姉|ねえ]さんと[一緒|いっしょ]に[工作|こうさく]しましょう！
 ---
 
 ## アトリエ[整理券|せいりけん]　[残数状況|ざんすうじょうきょう]
 
 ```
-<iframe width=800 height=400 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdG8YaRLg1z6XoPRbUUU4geb52UJyzwxc35pQ19jZb0k8W-qPZbbuWCiDTw4Dqej89CkvlG6dR0jJi/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="800" height="400" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSGGco9-geeQYLfuJsoYiR3OQ-jows4bINLfHNqBXPwQgSSibM2erSozO7zfph6epooLW11s9LYJe-1/pubhtml?gid=2010013736&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 ```
 
 ## ごあんない
@@ -68,7 +66,6 @@ CASTのお[兄|にい]さん、お[姉|ねえ]さんと[一緒|いっしょ]に[
 [title](access)
 ![東大CASTのロゴ](/img/sponsors/utcast.gif)
 ## アクセス
-
 [会場|かいじょう]までの[行|い]き[方|かた]はこちら。
 ---
 ---
@@ -79,7 +76,7 @@ CASTのお[兄|にい]さん、お[姉|ねえ]さんと[一緒|いっしょ]に[
 ---
 ---
 [title](pamphlet)
-![パンフレットの表紙](/img/pamphlet/pamphlet.png)
+![パンフレットの表紙](/img/pamphlet/パンフレット表紙.png)
 ## パンフレット
 [公式|こうしき]パンフレットをWebでもご[覧|らん]いただけます！
 ---
