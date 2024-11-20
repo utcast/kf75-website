@@ -1,77 +1,21 @@
-# Timetable
+## Timetable
 
-## Science Museum
+## Museum venue
 
-Always open.
+All exhibitions can be viewed throughout the day at the museum venue. Please come at your favorite time.
 
-## Science Show & Science Workshop
+## Show site
 
-```
-<table>
-	<tr>
-		<th>Time</th>
-		<th>Content</th>
-	</tr>
-	<tr>
-		<th>10:00-10:40</th>
-		<th>Science Show ①</th>
-	</tr>
-	<tr>
-		<th>11:00-11:30</th>
-		<th>Science Workshop ① (Camera Obscura)</th>
-	</tr>
-	<tr>
-		<th>12:00-12:40</th>
-		<th>Science Show ②</th>
-	</tr>
-	<tr>
-		<th>13:00-13:30</th>
-		<th>Science Workshop ② (Polarizing Kaleidoscope)</th>
-	</tr>
-	<tr>
-		<th>14:00-14:40</th>
-		<th>Science Show ③</th>
-	</tr>
-	<tr>
-		<th>15:00-15:30</th>
-		<th>Science Workshop ③ (Polarizing Kaleidoscope)</th>
-	</tr>
-	<tr>
-		<th>16:00-16:40</th>
-		<th>Science Show ④</th>
-	</tr>
-	<tr>
-		<th>17:00-17:30</th>
-		<th>Science Workshop ④ (Camera Obscura)</th>
-	</tr>
-</table>
-```
+The following timetable will be held at the show venue on November 22(Fri.), 23(Sat.), 24(Sun.).
 
-## Science Workshop Ticket
+![Timetable](/img/timetable/ショー会場_タイムテーブル.png)
 
-Tickets are required for science workshop. Tickets will be distributed in advance in front of Room #83, Engineering Bldg. 8. 
+## Atelier numbered ticket distribution time
 
-```
-<table>
-	<tr>
-		<th>Workshop</th>
-		<th>Ticket Distribution</th>
-	</tr>
-	<tr>
-		<th>①</th>
-		<th>9:30-</th>
-	</tr>
-	<tr>
-		<th>②</th>
-		<th>11:15-</th>
-	</tr>
-	<tr>
-		<th>③</th>
-		<th>13:15-</th>
-	</tr>
-	<tr>
-		<th>④</th>
-		<th>15:15-</th>
-	</tr>
-</table>	    
+Numbered tickets will be distributed at the Atelier (Craft Workshop) on the day of the ![ Show. However, please note that the distribution time of numbered tickets may be earlier depending on how crowded the event is.
+
+![Atelier Numbered Ticket Distribution Time](/img/timetable/アトリエ会場_タイムテーブル.png)
+
+````
+<iframe width=“800” height=“400” src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSGGco9-geeQYLfuJsoYiR3OQ-jows4 bINLfHNqBXPwQgSSibM2erSozO7zfph6epooLW11s9LYJe-1/pubhtml?gid=2010013736&amp;single=true&amp;widget=true&amp;headers=false"></ iframe>
 ```
