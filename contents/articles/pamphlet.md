@@ -8,5 +8,5 @@
 [title](/pamphlet/【東大CAST】五月祭2024パンフレット.pdf)
 ![パンフレットの表紙](/img/pamphlet/pamphlet.png)
 ## ダウンロードはこちら！
-（ファイルサイズ：8.5MB）
+（ファイルサイズ：5MB）
 ---
