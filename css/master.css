@@ -74,7 +74,7 @@ article > p {
 	font-weight: 400;
 	line-height: calc(1.875rem * var(--line-height-scale));
 	text-align: justify;
-	word-break: break-all;
+	/* word-break: break-all; */
 }
 
 article span {
