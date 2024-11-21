@@ -1,11 +1,11 @@
 
-# Todai CAST Komaba Festival 2024
+# UT-CAST Komaba Festival 2024
 
 ## Announcement
 
 Komaba Festival 2024 will be held from Friday, November 22 to Sunday, November 24, 2024 at the Komaba Campus of the University of Tokyo.
 
-At Todai CAST, there will be a booth exhibition, “I see and feel”, where you can enjoy seeing various experiments on various themes up close! Science Museum” and a large-scale experiment ‘Science Show,’ as well as various exhibitions! Science Show” where you can enjoy large-scale experiments, as well as various exhibitions and craft workshops.
+At UT-CAST, there will be a booth exhibition, “I see and feel”, where you can enjoy seeing various experiments on various themes up close! Science Museum” and a large-scale experiment ‘Science Show,’ as well as various exhibitions! Science Show” where you can enjoy large-scale experiments, as well as various exhibitions and craft workshops.
 
 We look forward to your visit!
 
