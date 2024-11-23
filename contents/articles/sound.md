@@ -1,5 +1,9 @@
 # どうして[楽器|がっき]で[音|おと]が[鳴|な]る？[科学|かがく]で[探|さぐ]る[音楽|おんがく]ショー
 
+```
+<iframe width="878" height="494" src="https://www.youtube.com/watch?v=oB8W_iwrDfg" title="音楽ショーの録画 【東大CAST 駒場祭2024】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+
 [身|み]の[回|まわ]りには、[様々|さまざま]な[音楽|おんがく]が[溢|あふ]れています。そしてそこには、たくさんの[楽器|がっき]が[使|つか]われています。その[楽器|がっき]の[音|おと]がどのような[仕組|しく]みで[鳴|な]っているのか、[考|かんが]えたことはあるでしょうか。
 
 このショーでは、[様々|さまざま]な[楽器|がっき]の[音|おと]が[鳴|な]る[仕組|しく]みを[紹介|しょうかい]していきます。[皆|みな]さんが[演奏|えんそう]したことのある[楽器|がっき]、[音色|ねいろ]を[聞|き]いたことのある[楽器|がっき]がどういう[仕組|しく]みで[音|おと]を[鳴|な]らしているのか、[面白|おもしろ]い[実験|じっけん]とストーリーを[通|とお]して[学|まな]んでいきましょう！
